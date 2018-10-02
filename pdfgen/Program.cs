@@ -1,4 +1,7 @@
 ﻿using BestCV.JobSeeker.Models.Core;
+using PdfSharp.Pdf;
+using System.Diagnostics;
+using System.IO;
 
 namespace pdfgen
 {
@@ -10,7 +13,14 @@ namespace pdfgen
             Hydrater hyde = new Hydrater();
             Candidate model = hyde.LoadCandidate();
             Generator DocGenerator = new Generator();
-            DocGenerator.Generate(model);
+            var doc = DocGenerator.Generate(model);
+            string filename = Path.GetRandomFileName() + ".pdf";
+            string directory = Directory.GetCurrentDirectory();
+            string filepath = directory + "\\" + filename;
+            doc.Save(filepath);
+            
+            Process.Start(filepath);
+
 
         }
     }
