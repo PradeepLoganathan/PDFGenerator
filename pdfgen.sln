@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdfgen", "pdfgen\pdfgen.csproj", "{176BD8CC-206A-48B6-9C69-1A722E8F21C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestCV.JobSeeker.Models", "BestCV.JobSeeker.Models\BestCV.JobSeeker.Models.csproj", "{2CF75006-72C7-4731-BB8F-BF6DE22198ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176BD8CC-206A-48B6-9C69-1A722E8F21C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176BD8CC-206A-48B6-9C69-1A722E8F21C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176BD8CC-206A-48B6-9C69-1A722E8F21C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176BD8CC-206A-48B6-9C69-1A722E8F21C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF75006-72C7-4731-BB8F-BF6DE22198ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF75006-72C7-4731-BB8F-BF6DE22198ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF75006-72C7-4731-BB8F-BF6DE22198ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF75006-72C7-4731-BB8F-BF6DE22198ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BACA07FC-E862-4653-978C-9A89AAF00DDF}
+	EndGlobalSection
+EndGlobal

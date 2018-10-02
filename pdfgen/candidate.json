@@ -1,0 +1,752 @@
+{
+  "candidateId": "96b9e77b-caff-48d8-8156-f6fd0f9796bd",
+  "avatarSet": {
+    "avatar": [
+      {
+        "profilePictureUrl": "https://bestcv.blob.core.windows.net/avatarcontainer/avatar96b9e77b-caff-48d8-8156-f6fd0f9796bd.jpeg",
+        "isPrimaryAvatar": true
+      }
+    ]
+  },
+  "candidateName": {
+    "firstName": "Narendhiran",
+    "lastName": "Sundaresan",
+    "fullName": "Narendhiran Sundaresan"
+  },
+  "candidateTag": {
+    "tag": "Marketing Manager at HackerEarth"
+  },
+  "candidateProfile": {
+    "profile": "15 years’ experience in developing and executing marketing strategies with the unique ability to understand the ongoing market scenario and customers trends using exceptional marketing communication skills, including:\n\nStrategic planning and strategic leadership.\nDecisive: Capable of delivering quick solutions to the marketing challenges.\nExtensive work with all sources of media channels.\nResult oriented: Ability to achieve target within given time."
+  },
+  "emailIDs": {
+    "emailID": []
+  },
+  "mobileNumbers": {
+    "numbers": []
+  },
+  "residentialAddress": {
+    "line1": " Bangaluru Area",
+    "line2": "",
+    "city": "Bangaluru",
+    "state": "Tamil Nadu",
+    "zip": "530068",
+    "country": "India",
+    "geoCode": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "addressId": "00000000-0000-0000-0000-000000000000",
+    "isVerified": false
+  },
+  "permanentAddress": {
+    "line1": "Thindal",
+    "line2": "Thindal",
+    "city": "Erode",
+    "state": "Tamil Nadu",
+    "zip": "638001",
+    "country": "India",
+    "geoCode": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "addressId": "00000000-0000-0000-0000-000000000000",
+    "isVerified": false
+  },
+  "aadhaarID": null,
+  "noticePeriod": null,
+  "career": {
+    "workExperiences": [
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "HackerEarth",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru Area",
+            "state": "Karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2002-01-08T18:30:00Z",
+        "endDate": "2006-05-09T18:30:00Z",
+        "designation": "Marketing Manger",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "72626e81-fd67-4947-afb5-a73c1dc65c39",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "4190f78f-9deb-43b4-b3ad-629376d8bdbd",
+        "rolesAndResponsibilities": {
+          "responsibilityList": []
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Fitgo",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru Area",
+            "state": "Karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2003-02-04T18:30:00Z",
+        "endDate": "2010-05-11T18:30:00Z",
+        "designation": "Co - Founder",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "f6b45deb-9dce-40a6-a4ce-c73e58f9d022",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "e4445ff7-a77f-427f-a9a2-114b348db2d7",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "As a Co-Founder, I was involved in variety of core functions to get the start-up up and running, ranging from Product Development, Operations Management, Hiring, Partnerships and Customer Experience Management"
+            },
+            {
+              "description": "Revamped the website and Built up the operations dashboard for effective order processing and order cycle management"
+            },
+            {
+              "description": "Took full responsibility of Marketing, Customer Acquisition and feedback to improve product offering"
+            },
+            {
+              "description": "Formulate, direct and coordinate marketing activities and policies to promote products and services, working with advertising and promotion managers"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Mywash",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru Area",
+            "state": "Karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2002-01-01T18:30:00Z",
+        "endDate": "2013-05-14T18:30:00Z",
+        "designation": "Associate Product Manager",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "4d37c999-baed-424f-848f-8f1d5eb3e96f",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "89eb62e9-bf8c-4884-946d-cee23cb019d1",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Closely worked with the Founders to build the product and marked down a coordinated marketing strategy"
+            },
+            {
+              "description": "Played a key role in Marketing Strategy and Implementation with focus on Customer Acquisition and increasing brand awareness"
+            },
+            {
+              "description": "Played pivotal role in Growth Marketing Strategy which resulted in increasing orders from 30 to 350+ per day reaching a maximum of 1000 orders per day"
+            },
+            {
+              "description": "Collaborated with diverse teams"
+            },
+            {
+              "description": "Effectively set up and managed Customer Care division of MyWash with manpower of 4 during initial phase"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Intruo",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru",
+            "state": "Karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2002-12-31T18:30:00Z",
+        "endDate": "2006-05-09T18:30:00Z",
+        "designation": "Marketing Manager",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "707ca590-c395-48f2-9156-5dd1af079dc3",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "587c57c3-8121-4812-8b3e-2da82d06afc4",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Grass-root Market Research – Talk to over 750 customers and find out more about their problems and how the solution can help them, get feedback and improve the value proposition"
+            },
+            {
+              "description": "Conduct focus groups, usability tests and personal interviews to develop better understanding of the customer mindset and develop strategies to position ourselves in the market"
+            },
+            {
+              "description": "Have been a critical part of User Experience Design and acquiring first customers"
+            },
+            {
+              "description": "Search Engine Optimization - key word identification, prioritization of identified keywords and populating each webpage optimally for the keywords for multiple search engines"
+            },
+            {
+              "description": "Social Media Marketing - Targeted social media lead generation using recommendation platforms and groups in Facebook and Frilp"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Goldman sachs",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru Area",
+            "state": "Karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2004-01-06T18:30:00Z",
+        "endDate": "2010-05-11T18:30:00Z",
+        "designation": "Management Trainee",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "163c7627-ff50-482b-9a52-195eac8cd03a",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "12641f5b-dca5-4d02-9541-3c430736c4eb",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Metadata management ensuring data quality improvement across all projects using SQL and Composite Studio"
+            },
+            {
+              "description": "Multi-level Business Process Modeling using an industry standard tool - SIGNAVIO"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Tarnea Technology Solutions",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Erode",
+            "state": "Tamil Nadu",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2002-01-08T18:30:00Z",
+        "endDate": "2012-05-15T18:30:00Z",
+        "designation": "Summer Associate",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "4bbb765a-104b-49e4-bd79-aa264b708725",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "d1715b8d-821b-48f4-85a4-53aa141b8c26",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Inventory Management and Billing Software Implementation for MMCH pharmacy"
+            },
+            {
+              "description": "I was a part of the customer development team which was responsible for coordinating with the hospital staff on site and to ensure seamless integration of the billing, inventory and ordering of medicines and other medical necessities"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "Hungry Chennai",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2002-02-06T18:30:00Z",
+        "endDate": "2013-04-24T18:30:00Z",
+        "designation": "Business Development Intern",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "cf31eaf1-7b17-4094-becc-22317f682255",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "03fcdbcb-d782-41e0-8b1a-5f99427095e1",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Hungry Chennai is a Chennai based start-up defining itself as “An Online Food court”. I was a part of it as Business Development (Client Side) responsible for lead generation, commission margin negotiation with various hotel chains"
+            }
+          ]
+        }
+      },
+      {
+        "isVerified": false,
+        "isCurrent": false,
+        "company": {
+          "name": "HoneyWell Technology Solutions",
+          "location": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Bangaluru",
+            "state": "karnataka",
+            "zip": "zip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "rocid": "rocid",
+          "logo": "logo"
+        },
+        "projects": {
+          "projectList": []
+        },
+        "startDate": "2003-01-07T18:30:00Z",
+        "endDate": "2010-05-11T18:30:00Z",
+        "designation": "Project Trainee",
+        "skillSet": {
+          "skillList": []
+        },
+        "employmentType": {
+          "value": 1,
+          "description": "FullTime"
+        },
+        "compensation": {
+          "costToCompany": 0,
+          "compensationId": "65ff5339-19b9-4996-96c7-51a5058365b2",
+          "isVerified": false,
+          "compensationItems": []
+        },
+        "workExperienceID": "4c79c888-68cf-4294-8ecb-4e6004966060",
+        "rolesAndResponsibilities": {
+          "responsibilityList": [
+            {
+              "description": "Automation and GUI Design of Test bench using LABVIEW"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "currentSalary": 0,
+  "dateOfBirth": "1981-04-01T00:00:00Z",
+  "gender": {
+    "value": 1,
+    "description": "Male"
+  },
+  "education": {
+    "educationalCertificates": [
+      {
+        "certifyingAuthority": {
+          "name": "Indian University of International standing",
+          "logo": "logo",
+          "website": "website",
+          "address": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Rajasthan",
+            "state": "Jhunjhunu",
+            "zip": "zzzzzzzzzzzzzzzzzzzip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "collegeName": "BITS Pilani"
+        },
+        "certificateID": "00000000-0000-0000-0000-000000000000",
+        "certificateName": "Master of Business Administration(M.B.A)",
+        "marksCards": [],
+        "proofs": [],
+        "startDate": "2012-05-01T18:30:00Z",
+        "endDate": "2014-05-01T18:30:00Z",
+        "isVerified": false,
+        "isCurrentEducation": false,
+        "percentageObtained": 8.49,
+        "achievements": {
+          "achievementList": [
+            {
+              "description": "Event Coordinator of Operations Club of BITS"
+            },
+            {
+              "description": "Nucleus Member in Planning and Control Committee of INTERFACE BITS"
+            }
+          ]
+        },
+        "skills": {
+          "skillList": [
+            {
+              "name": "Marketing Research",
+              "description": null,
+              "skillRating": null,
+              "skillID": "00000000-0000-0000-0000-000000000000",
+              "isVerified": false,
+              "experienceInMonth": 0
+            },
+            {
+              "name": "Supply chain Management",
+              "description": null,
+              "skillRating": null,
+              "skillID": "00000000-0000-0000-0000-000000000000",
+              "isVerified": false,
+              "experienceInMonth": 0
+            },
+            {
+              "name": "Industrial Marketing (B2B)",
+              "description": null,
+              "skillRating": null,
+              "skillID": "00000000-0000-0000-0000-000000000000",
+              "isVerified": false,
+              "experienceInMonth": 0
+            },
+            {
+              "name": "Marketing Management and Brand Management",
+              "description": null,
+              "skillRating": null,
+              "skillID": "00000000-0000-0000-0000-000000000000",
+              "isVerified": false,
+              "experienceInMonth": 0
+            }
+          ]
+        },
+        "specialization": "Marketing/Operations",
+        "internshipSet": {
+          "internshipList": []
+        }
+      },
+      {
+        "certifyingAuthority": {
+          "name": "Amrita  Vishwa Vidyapeetham University",
+          "logo": "logo",
+          "website": "website",
+          "address": {
+            "line1": "line1",
+            "line2": "line2",
+            "city": "Coimbatore",
+            "state": "Tamil Nadu",
+            "zip": "zzzzzzzzzzzzzzzzzzzip",
+            "country": "India",
+            "geoCode": {
+              "latitude": 0,
+              "longitude": 0
+            },
+            "addressId": "00000000-0000-0000-0000-000000000000",
+            "isVerified": false
+          },
+          "collegeName": "Amrita Institute Of Technology Science"
+        },
+        "certificateID": "00000000-0000-0000-0000-000000000000",
+        "certificateName": "Bachelor's Degree",
+        "marksCards": [],
+        "proofs": [],
+        "startDate": "2008-04-30T18:30:00Z",
+        "endDate": "2012-05-01T18:30:00Z",
+        "isVerified": false,
+        "isCurrentEducation": false,
+        "percentageObtained": 7.59,
+        "achievements": {
+          "achievementList": []
+        },
+        "skills": {
+          "skillList": []
+        },
+        "specialization": "Electronics and Communications Engineering",
+        "internshipSet": {
+          "internshipList": []
+        }
+      }
+    ],
+    "professionalCertificates": []
+  },
+  "preferredJobLocations": null,
+  "skillset": {
+    "skillList": [
+      {
+        "name": "Time Management",
+        "description": "",
+        "skillRating": {
+          "rating": {
+            "ratingDescription": "Learner",
+            "value": 2
+          },
+          "description": null
+        },
+        "skillID": "00000000-0000-0000-0000-000000000000",
+        "isVerified": false,
+        "experienceInMonth": 15
+      },
+      {
+        "name": " Display Marketing",
+        "description": "",
+        "skillRating": {
+          "rating": {
+            "ratingDescription": "Learner",
+            "value": 2
+          },
+          "description": null
+        },
+        "skillID": "00000000-0000-0000-0000-000000000000",
+        "isVerified": false,
+        "experienceInMonth": 15
+      },
+      {
+        "name": "Search Engine Marketing",
+        "description": "",
+        "skillRating": {
+          "rating": {
+            "ratingDescription": "Learner",
+            "value": 2
+          },
+          "description": null
+        },
+        "skillID": "00000000-0000-0000-0000-000000000000",
+        "isVerified": false,
+        "experienceInMonth": 15
+      },
+      {
+        "name": "Performance Management",
+        "description": "",
+        "skillRating": {
+          "rating": {
+            "ratingDescription": "Learner",
+            "value": 2
+          },
+          "description": null
+        },
+        "skillID": "00000000-0000-0000-0000-000000000000",
+        "isVerified": false,
+        "experienceInMonth": 15
+      },
+      {
+        "name": "Google Analytics",
+        "description": "",
+        "skillRating": {
+          "rating": {
+            "ratingDescription": "Learner",
+            "value": 2
+          },
+          "description": null
+        },
+        "skillID": "00000000-0000-0000-0000-000000000000",
+        "isVerified": false,
+        "experienceInMonth": 15
+      }
+    ]
+  },
+  "hobbies": {
+    "hobbyList": []
+  },
+  "languages": {
+    "languageList": [
+      {
+        "name": "English",
+        "canSpeak": true,
+        "canWrite": true,
+        "canRead": true
+      },
+      {
+        "name": "Hindi",
+        "canSpeak": true,
+        "canWrite": false,
+        "canRead": false
+      },
+      {
+        "name": "Tamil",
+        "canSpeak": true,
+        "canWrite": true,
+        "canRead": true
+      }
+    ]
+  },
+  "references": null,
+  "personalSkillSet": {
+    "personalSkillList": []
+  },
+  "achievements": {
+    "achievementList": []
+  },
+  "highlights": {
+    "highlightList": []
+  },
+  "visas": {
+    "visaList": []
+  },
+  "favouriteQuotes": "",
+  "socialProfiles": {
+    "profileList": [
+      {
+        "name": "Linkedin",
+        "profileUrl": "https://www.linkedin.com/in/swetha-rao-0670195/"
+      }
+    ]
+  }
+}
